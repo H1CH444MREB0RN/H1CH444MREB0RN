@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="http://hichaaamyt.fr">Website</a> •
   <a href="https://twitter.com/H1CH444M">Twitter</a> •
   <a href="https://github.com/H1CH444MREB0RN">Github</a>
 </p>
