@@ -9,4 +9,4 @@ I'm a __new JS developer__ based in __France__.
 
 * 💼 Currently working on [PRLServ](https://www.discord.gg/PRL) <br/>
 * 📫 Contact me [@H1CH444M](https://twitter.com/H1CH444M) <br/>
-* 📋 Last project [Nozomi](https://discord.gg/XumNeQ8swA)
+* 📋 Last project [Uber Music Discord Bot](https://discord.gg/XumNeQ8swA)
